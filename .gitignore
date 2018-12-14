@@ -1,0 +1,6 @@
+*.log
+.idea/
+install.bak/
+config/config.php
+runtime/
+upload/
